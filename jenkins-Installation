@@ -12,4 +12,4 @@ sudo apt install openjdk-11-jdk -y
     /etc/apt/sources.list.d/jenkins.list > /dev/null
 ## install jenkins
   sudo apt-get update
-  sudo apt-get install jenkins
+  sudo apt-get install jenkins -y
